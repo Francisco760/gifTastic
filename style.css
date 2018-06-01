@@ -1,0 +1,21 @@
+body {
+    font: 18px arial, sans-serif;
+    background: #eee;
+}
+#searches {
+    width: 70%;
+}
+.search-item {
+    float: left;
+    padding: 10px;
+}
+form {
+    width: 30%;
+    float: right;
+    padding: 20px;
+}
+label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
